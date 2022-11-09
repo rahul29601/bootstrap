@@ -1,0 +1,245 @@
+
+.top1{
+    text-align: center;
+    position: relative;
+    margin:0 auto;
+}
+.top1 img{
+    width:100%;
+}
+.logo{
+    margin:5px 0;
+}
+
+.middle{
+    width:700px;
+    height:200px;
+    text-align:left;
+    position: absolute;
+    top:70px;
+    left:200px;
+    color: white;
+}
+.middle h1{
+    color: white;
+    text-decoration:none;
+}
+.middle h1:hover{
+    color:#006DFF;
+}
+.col21{
+    padding:5px;
+    overflow:hidden;
+}
+.col21 img{
+width:100%;
+}
+.col22 b{
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shalimar', cursive;
+    color:black;
+}
+.col22 h1{
+    font-family: 'Fuzzy Bubbles', cursive;
+font-family: 'Island Moments', cursive;
+font-family: 'Shalimar', cursive;
+font-family: 'Titillium Web', sans-serif;
+color:black;
+}
+.col22 ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.col22 ul li a:link,.col22 ul li a:visited{
+    text-decoration: none;
+    color:black;
+    line-height: 30px;
+}
+.col22 ul li a:hover{
+    text-decoration: underline;
+}
+.top3{
+    margin-top:100px;
+}
+.col31 b{
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shalimar', cursive;
+    color:black;
+}
+.col31 h1{
+    font-family: 'Fuzzy Bubbles', cursive;
+font-family: 'Island Moments', cursive;
+font-family: 'Shalimar', cursive;
+font-family: 'Titillium Web', sans-serif;
+color:black;
+}
+.col31 ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.col31 ul li a:link,.col31 ul li a:visited{
+    text-decoration: none;
+    color:black;
+    line-height: 30px;
+}
+.col31 ul li a:hover{
+    text-decoration: underline;
+}
+.col32{
+    padding:5px;
+    overflow:hidden;
+}
+.col41 ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.col41 ul li a:link,.col41 ul li a:visited{
+    text-decoration: none;
+    color:black;
+    line-height: 30px;
+}
+.col41 ul li a:hover{
+    text-decoration: underline;
+}
+.col41 b{
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shalimar', cursive;
+    color:black;
+}
+.col61 ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.col61 ul li a:link,.col61 ul li a:visited{
+    text-decoration: none;
+    color:black;
+    line-height: 30px;
+}
+.col61 ul li a:hover{
+    text-decoration: underline;
+}
+.col61 b{
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shalimar', cursive;
+    color:black;
+}
+.col81 ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.col81 ul li a:link,.col81 ul li a:visited{
+    text-decoration: none;
+    color:black;
+    line-height: 30px;
+}
+.col81 ul li a:hover{
+    text-decoration: underline;
+}
+.col81 b{
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shalimar', cursive;
+    color:black;
+}
+.top10{
+    text-align: center;
+}
+.col101 ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.col101 ul li a:link,.col101 ul li a:visited{
+    text-decoration: none;
+    color:black;
+    line-height: 30px;
+}
+.col101 ul li a:hover{
+    text-decoration: underline;
+}
+.col101 b{
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shalimar', cursive;
+    color:black;
+}
+.col00{
+    margin:0 auto;
+}
+.col102{
+    padding:5px;
+    overflow:hidden;
+    float:left;
+}
+.col102 img{
+    width:100%;
+}
+.col103{
+    padding:5px;
+    overflow:hidden;
+    float:left;
+}
+.col103 img{
+    width:100%;
+}
+.col104{
+    padding:5px;
+    overflow:hidden;
+    float:left;
+}
+.col104 img{
+    width:100%;
+}
+.foot{
+text-align:center;
+margin-top:20px;
+padding:30px 0;
+background:rgb(238, 241, 241);
+}
+.foot1{
+margin-top:20px;
+}
+.foot1 h5{
+    color: #006DFF;
+}
+.social:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.social {
+    -webkit-transform: scale(0.8);
+    /* Browser Variations: */
+    
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+}
+
+/*
+   Multicoloured Hover Variations
+*/
+
+#social-fb:hover {
+    color: #3B5998;
+}
+#social-tw:hover {
+    color: #4099FF;
+}
+#social-gp:hover {
+    color: #d34836;
+}
+#social-em:hover {
+    color: #f39c12;
+}
